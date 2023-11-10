@@ -1,5 +1,3 @@
-# Simple_Chatbot
-
 # Simple_Chatbot with OS Functionality
 
 ## Overview
